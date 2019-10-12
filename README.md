@@ -28,7 +28,7 @@ http://pages.cs.wisc.edu/~tbenson/IMC10_Data
 
 - **link.h / link.cpp** : link-related functions
 
-- **SP.h / SP.CPP** : calculate and store the shortest path for rack pairs
+- **SP.h / SP.cpp** : calculate and store the shortest path for rack pairs
 
 - **KSP.h / KSP.cpp** : calculate and store the top-K shortest paths for rack pairs
 
